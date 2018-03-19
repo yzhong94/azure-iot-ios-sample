@@ -1,0 +1,26 @@
+PODS:
+  - AzureIoTHubClient (1.0.0-pre-release-1.0.8):
+    - AzureIoTuAmqp (= 1.0.0-pre-release-1.0.8)
+    - AzureIoTuMqtt (= 1.0.0-pre-release-1.0.8)
+    - AzureIoTUtility (= 1.0.0-pre-release-1.0.8)
+  - AzureIoTuAmqp (1.0.0-pre-release-1.0.8):
+    - AzureIoTUtility (= 1.0.0-pre-release-1.0.8)
+  - AzureIoTuMqtt (1.0.0-pre-release-1.0.8):
+    - AzureIoTUtility (= 1.0.0-pre-release-1.0.8)
+  - AzureIoTUtility (1.0.0-pre-release-1.0.8)
+
+DEPENDENCIES:
+  - AzureIoTHubClient (= 1.0.0-pre-release-1.0.8)
+  - AzureIoTuAmqp (= 1.0.0-pre-release-1.0.8)
+  - AzureIoTuMqtt (= 1.0.0-pre-release-1.0.8)
+  - AzureIoTUtility (= 1.0.0-pre-release-1.0.8)
+
+SPEC CHECKSUMS:
+  AzureIoTHubClient: 187d972939ddd538b4df41268fe9fdf215793e86
+  AzureIoTuAmqp: 675028ff81b11e260684b8cca15d990a8c7c9e08
+  AzureIoTuMqtt: bc562f3c70e261751a6d06c0835e37197fe9cffb
+  AzureIoTUtility: 1dcd84250ce3e86e93390015b4b8f170e838f922
+
+PODFILE CHECKSUM: 880dd5b95aefcc47aa3ed1560eef0a8aac252bec
+
+COCOAPODS: 1.4.0
