@@ -125,7 +125,7 @@
 				TargetAttributes = {
 					9AEFC4031F7080E900E53319 = {
 						CreatedOnToolsVersion = 8.3.3;
-						DevelopmentTeam = M436W7585F;
+						DevelopmentTeam = UBF8T346G9;
 						LastSwiftMigration = 0920;
 						ProvisioningStyle = Automatic;
 					};
@@ -374,7 +374,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
-				DEVELOPMENT_TEAM = M436W7585F;
+				DEVELOPMENT_TEAM = UBF8T346G9;
 				INFOPLIST_FILE = "MQTT Client Sample/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 10.2;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
@@ -394,7 +394,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
-				DEVELOPMENT_TEAM = M436W7585F;
+				DEVELOPMENT_TEAM = UBF8T346G9;
 				INFOPLIST_FILE = "MQTT Client Sample/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 10.2;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
